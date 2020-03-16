@@ -1,0 +1,7 @@
+*.swp
+__pycache__
+venv
+*.swo
+.idea
+__init__.py
+.env
